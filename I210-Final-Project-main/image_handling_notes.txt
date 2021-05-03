@@ -1,0 +1,2 @@
+$image = $movie->getimage();
+$image = BASE_URL . '/'. MOVIE_IMG . $image;    base url is prefix, have full file path
